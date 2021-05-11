@@ -1,1 +1,1 @@
-# pop_algos_rb
+Сollection of popular problems solved with ruby
